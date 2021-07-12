@@ -14,12 +14,12 @@ The main page is the Frames page:
             Clicking on a frame enables us to select a photo from the phone's camera roll, add a text caption to the photo, and send it to the frame.
             
 Database:
--User does not need to interact with the database
+User does not need to interact with the database.
 
 Frame:
--Frame will resync pictures once every day assuming it is plugged in
--To use the frame, plug into power and into TV & turn device on
--Slideshow automatically starts playing
+Frame will resync pictures once every day assuming it is plugged in.
+To use the frame, plug into power and into TV & turn device on.
+Slideshow automatically starts playing.
 
 Setup Documentation for HappyFrames image retriever and slideshow.
 
