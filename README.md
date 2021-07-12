@@ -2,8 +2,8 @@
 Senior Project 
 
 App:
--Login with Happy Frames credentials. Forgot Password email recovery option is available.
--The main page is the Frames page:
+Login with Happy Frames credentials. Forgot Password email recovery option is available.
+The main page is the Frames page:
 
     From here you can:
         -Access Settings (See username, user email, manage payment (not implemented), change password, and delete account.
